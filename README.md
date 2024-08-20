@@ -6,7 +6,7 @@ We organize this repository by data type and the assumtion that doesn't met. We'
 | Data type  | assumtion  | modelling approach |  
 |-------------|------|------------|
 | Time series |   | [change point detection](https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/#linear-relationship-zx-with-1-break)   |
-
+|             |   | [Looking at time series ](https://lindeloev.github.io/mcp/articles/packages.html)   |
 
 
 
