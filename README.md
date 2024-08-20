@@ -5,12 +5,10 @@ We organize this repository by data type and the assumtion that doesn't met. We'
 
 | Data type  | assumtion  | modelling approach |  
 |-------------|------|------------|
-| 100x100*    | 10K  | 0.3513s    |
+| Time series |   | [change point detection](https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/#linear-relationship-zx-with-1-break)   |
 
 
 
 
 
-|  Data type  | assumtion  | modelling approach | 
-|-------------|------|------------|------------|
-| 100x100*    | 10K  | 0.3513s    | 0.0010s    |
+
