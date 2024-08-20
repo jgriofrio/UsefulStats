@@ -6,9 +6,9 @@ We organize this repository by data type and the assumtion that doesn't met. We'
 | Data type                                      | assumtion                          | modelling approach                                                                                                                                             |  
 |------------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Time series                                    |                                    | [change point detection](https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/#linear-relationship-zx-with-1-break)   |
-|                                                |                                    | [Looking at time series ](https://lindeloev.github.io/mcp/articles/packages.html)                                                                              |
+| Time series                                    |                                    | [Looking at time series ](https://lindeloev.github.io/mcp/articles/packages.html)                                                                              |
 | Continuos variable~difference between groups   |                                    | [ANOVA](https://ourcodingclub.github.io/tutorials/anova/)                                                                                                      |
 | Continuos variable~difference between groups   | non-independent observations       | [Mixed ANOVA](https://www.datanovia.com/en/lessons/mixed-anova-in-r/ )                                                                                         |
-
-
-
+| Continuos variable~difference between groups   | non-independent observations       | [Mixed ANOVA](https://www.datanovia.com/en/lessons/mixed-anova-in-r/ )                                                                                         |
+| Continuos variable~ continuos or catagorical covariables | non-independent observations       | [Introduction to linear mixed models](https://ourcodingclub.github.io/tutorials/mixed-models/)                                                       |
+| Continuos variable~ continuos or catagorical covariables | non-independent observations       | [Fitting mixed linear models ](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)                                                      |
