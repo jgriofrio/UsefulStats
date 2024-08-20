@@ -3,7 +3,7 @@ Here we compiled a bunch of usefuel resorces to introduce folks into different s
 
 We organize this repository by data type and the assumtion that doesn't met. We'll try to update the list of resources as . Also, if there are sources that you find usefuel and you consider that should be included. 
 
-| Data type                                      | assumtion                          | modelling approach                                                                                                                                             |  
+| Data type                                      | Assumption                          | Modelling approach                                                                                                                                            |  
 |------------------------------------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Time series                                    |                                    | [change point detection](https://www.marinedatascience.co/blog/2019/09/28/comparison-of-change-point-detection-methods/#linear-relationship-zx-with-1-break)   |
 | Time series                                    |                                    | [Looking at time series ](https://lindeloev.github.io/mcp/articles/packages.html)                                                                              |
@@ -15,3 +15,5 @@ We organize this repository by data type and the assumtion that doesn't met. We'
 | Binary data/ Count data                                  |   non-normal distribution          | [Confidence Intervals for GLMs ](https://fromthebottomoftheheap.net/2018/12/10/confidence-intervals-for-glms/)                                       |
 | Binary data/ Count data                                  |   non-normal distribution          | [Confidence Intervals for GLMs ](https://bbolker.github.io/goettingen_2019/notes/glm_basic.html)                                                     |
 | Continuos / Binary data/ Count data                      |   non-linear relationships         | [Generalized Additive Models-GAMs](https://noamross.github.io/gams-in-r-course/chapter2)                                                             |
+| Bounded data / proportions                               |                | [Beta regression models]([https://noamross.github.io/gams-in-r-course/chapter2](https://www.andrewheiss.com/blog/2021/11/08/beta-regression-guide/#a-beta-regression))   |
+| Bounded data / proportions                               |  zero inflated              | [Zero inflated beta regression]([https://stats.stackexchange.com/questions/309047/zero-inflated-beta-regression-using-gamlss-for-vegetation-cover-data))   |
