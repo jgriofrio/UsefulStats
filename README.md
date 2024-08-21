@@ -1,4 +1,4 @@
-# Usefuel Stats
+# Useful Stats
 
 ## 📖 **About**
 
