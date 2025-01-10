@@ -29,3 +29,4 @@ We organize this repository by datatype and assumption not met, that migh guide 
 | Test models assumptions and plot residuals               |                              | [DHARMa for unsupported models](https://aosmith.rbind.io/2017/12/21/using-dharma-for-residual-checks-of-unsupported-models/)                               |
 | General linear regression course                         |                              | [Linear Regression](https://stacyderuiter.github.io/s245-notes-bookdown/) | 
 |Advance regression modelling                              |                              |[Advance regression analysis](https://theoreticalecology.github.io/AdvancedRegressionModels/3C-ModelSelection.html)  |
+|Continuos variable~ continuos or catagorical covariables  |                              |[Quantile regression](https://drkebede.medium.com/quantile-regression-tutorial-in-r-f2eec72c132b)|
