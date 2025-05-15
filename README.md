@@ -31,4 +31,4 @@ We organize this repository by datatype and assumption not met, that migh guide 
 |Advance regression modelling                              |                              |[Advance regression analysis](https://theoreticalecology.github.io/AdvancedRegressionModels/3C-ModelSelection.html)  |
 |Continuos variable~ continuos or catagorical covariables  |                              |[Quantile regression](https://drkebede.medium.com/quantile-regression-tutorial-in-r-f2eec72c132b)|
 |Guidelines for mathemetical notation in ecology|                                         |[Edwards & Auger-Méthé 2018](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13105)|
-|Guidelines for mathemetical notation in ecology|                                         |[Workshop "Statistical analyses in biology and ecology reseach"](https://r.qcbs.ca/workshops/)|
+|Statistical analyses in biology and ecology reseach|                                         |[Workshop "Statistical analyses in biology and ecology reseach"](https://r.qcbs.ca/workshops/)|
